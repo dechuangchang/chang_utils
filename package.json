@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "常用JS方法集合",
   "main": "index.js",
+  "git repository": "https://github.com/dechuangchang/chang_utils",
+  
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
